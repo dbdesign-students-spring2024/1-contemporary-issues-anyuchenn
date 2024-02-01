@@ -10,7 +10,7 @@ The article [_The Tech Behind COVID-19 Contact Tracing_](https://www.gao.gov/blo
 Also, they argued that in contrast to traditional contact tracing methods that demand a considerable workforce of trained contact tracers, contact tracing apps offer a more efficient and automated solution. Traditional methods involve identifying potentially exposed individuals, contacting them, and subsequently tracing their contacts. The digital nature of contact tracing apps expedites this process significantly. The automation not only saves time but also minimizes the risk of human error in identifying and notifying potential contacts.
 
 ##**Article 2**
-
+ 
 The article [_Contact tracing apps for the COVID-19 pandemic_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042619/) identifies the privacy concerns of covid-19 contact tracing apps, including the potential abuse of user privacy rights. Citizens express apprehension regarding the safeguarding of their personal data and the risk of unauthorized access. Trust deficits in government and public health authorities further compound the resistance to app adoption. Ethical dilemmas, security vulnerabilities, user behavior, and participation, along with technical constraints, contribute to the multifaceted challenges faced by these technologies.
 
 They suggests that developers should span enhancing privacy safeguards, building trust through transparent communication, addressing ethical considerations, fortifying security measures, and improving user engagement. The study emphasizes the need for a nuanced approach to digital contact tracing technologies, considering the socio-cultural and political context of each society.
