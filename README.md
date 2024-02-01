@@ -1,6 +1,6 @@
 #**The advantages and drawbacks of data collecting behind the COVID-19 Contact Tracing Apps**
 
-For this assignment, I will explore various viewpoints on the data collected of COVID-19 contact tracing apps that used to address the challenges presented by the COVID-19 pandemic. The first article focuses on highlighting the advantages of utilizing collected data, while the second article delves into the drawbacks associated with its use.
+For this assignment, I will explore two different viewpoints on the data collected of COVID-19 contact tracing apps that used to address the challenges presented by the COVID-19 pandemic. The first article focuses on highlighting the advantages of utilizing collected data, while the second article delves into the drawbacks associated with its use.
 
 
 ##**Article 1**
